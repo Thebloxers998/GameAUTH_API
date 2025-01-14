@@ -15,7 +15,7 @@ const transporter = nodemailer.createTransport({
 
 const sendEmail = (to, subject, text) => {
   const mailOptions = {
-    from: `"SecureAuthAPI" <${process.env.SMTP_USER}>`,
+    from: `"GameBot" <${process.env.SMTP_USER}>`,
     to,
     subject,
     text,
