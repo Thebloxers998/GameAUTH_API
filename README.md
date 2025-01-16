@@ -48,7 +48,7 @@ To start the NinjaMail server, follow these steps:
 
 1. **Start the Server**: Use your package manager to start the server.
 
-2. **Access the Interface**: The server will start on `http://localhost:3000`. You can access the NinjaMail interface by navigating to this URL in your web browser.
+2. **Access the Interface**: The server will start on `http://localhost:3000` or something i dont know. You can access the NinjaMail interface by navigating to this URL in your web browser.
 
 ## API Endpoints
 
@@ -144,12 +144,8 @@ We welcome contributions to NinjaMail! If you'd like to contribute, please follo
 
 ## License
 
-NinjaMail is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+NinjaMail is licensed under the  MPL-2.0 license. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
 If you have any questions or need further assistance, feel free to contact us at support@ninjamail.com.
-
----
-
-Happy coding with NinjaMail! 🥷📧
