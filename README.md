@@ -144,7 +144,7 @@ We welcome contributions to NinjaMail! If you'd like to contribute, please follo
 
 ## License
 
-NinjaMail is licensed under the  MPL-2.0 license. See the [LICENSE](LICENSE) file for more information.
+NinjaMail is licensed under the  MPL-2.0 license. See the [https://github.com/Thebloxers998/NinjaMail#MPL-2.0-1-ov-file](LICENSE) file for more information.
 
 ## Contact
 
